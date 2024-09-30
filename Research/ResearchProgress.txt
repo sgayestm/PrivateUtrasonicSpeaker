@@ -1,0 +1,11 @@
+This project will be seperated into several parts:
+
+Firstly the system will need to produce localised audio.
+  -This will be handled by the ultrasonic speakers and will be researched seperately
+
+The speakers will need to be driven by a controller. 
+  -this will likely need to be a stand alone controller to handle the mathmatics fast enough
+
+The speakers will need to be able to get a audio signal
+  - the final goal for this will be getting the music from bluetooth, however for a period of time a mp4 file saved locally might be used
+
