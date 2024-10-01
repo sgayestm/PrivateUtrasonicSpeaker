@@ -8,4 +8,14 @@ The speakers will need to be driven by a controller.
 
 The speakers will need to be able to get a audio signal
   - the final goal for this will be getting the music from bluetooth, however for a period of time a mp4 file saved locally might be used
-
+  
+	-After some research it became obvious that the choice of untrasonic transducer is important as a larger
+	 broadband transducer allows for a larger produced audible broudband without needing to ventrue into advanced signal processing
+	 to got the outcome
+	
+	-The next choice would be the controller used. This would impact the speed of signal processing.
+	 This is important since if fast signal processing is needed then a very fast microprocessor would be needed.
+	
+		Initially I am considering using a stm32 for the signal processing and a esp32 for handling the audio since i have previous experience getting audio to a esp32
+		
+	
