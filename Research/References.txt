@@ -3,3 +3,4 @@ Thesis on audible sound from parametric array
 -https://dspace.mit.edu/handle/1721.1/7987
 Paper covering bandwidth
 -https://www.sciencedirect.com/science/article/abs/pii/S0924424702000031
+https://charleslabs.fr/en/project-Acoustic+beamsteering+with+a+speaker+array
